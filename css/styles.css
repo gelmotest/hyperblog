@@ -6,6 +6,19 @@ body {
   padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+#thumb-logo {
+  width: 100px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#thumb-logo img {
+  width: 100%;
+}
+>>>>>>> header
 
 #cabecera {
   background-color: #33a;
